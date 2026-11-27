@@ -1,0 +1,11 @@
+ticket_id,priority,response_hrs,response_target,response_sla,resolution_hrs,resolution_target,resolution_sla
+1,High,0.50,1,Met,5.00,8,Met
+2,High,2.00,1,Breached,24.00,8,Breached
+3,Medium,2.00,4,Met,22.00,24,Met
+4,Low,5.00,8,Met,43.00,72,Met
+5,Medium,6.00,4,Breached,26.50,24,Breached
+6,Low,2.00,8,Met,,72,Pending
+7,Medium,1.00,4,Met,,24,Pending
+8,High,,1,Pending,,8,Pending
+9,Low,,8,Pending,,72,Pending
+10,High,0.33,1,Met,7.00,8,Met
